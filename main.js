@@ -27,5 +27,3 @@
 
 // console.log(typeof(string));
 
-let array = []
-console.log(typeof array);
